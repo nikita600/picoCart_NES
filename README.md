@@ -1,2 +1,2 @@
-# PiCart_NES
-Raspberry Pi Pico NES cartridge emulator.
+# picoCart_NES
+Raspberry Pi Pico Famicom/NES/Dendy cartridge emulator.
