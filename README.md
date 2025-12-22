@@ -1,2 +1,2 @@
 # picoCart_NES
-Raspberry Pi Pico Famicom/NES/Dendy cartridge emulator.
+Raspberry Pi Pico (RP2040) Famicom/NES/Dendy cartridge emulator.
